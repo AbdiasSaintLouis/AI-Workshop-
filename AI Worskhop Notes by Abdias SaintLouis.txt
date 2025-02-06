@@ -1,0 +1,54 @@
+Abdias Saint-Louis - VW Academy Resende RJ   06/02/2025
+Data Science - Principles...
+Machine learning 
+
+Models:
+
+*Regressão
+*Classificação
+*Clusterização
+*Redes Neurais
+*Ávores de decisões 
+*Aprendizado Profundo.
+
+Rezumindo : Modelo é uma especificação de uma relação matemática 
+ou probabilística que existe entre diferentes variáveis.
+
+Good2know : overfitting  ( Evite overfitting com validação cruzada)
+o que é overfitting ( sobreajuste ) ou seja é quando um modelo de aprendizado de máquina
+se ajusta excessivamente aos dados de treinamento, capturando ruídos e padrões específicos, em vez de 
+generalizar para novos dados. 
+
+Modelagem e Análise de Dados
+
+Focus: Not a Data analysis ----- 
+
+  Descriptive : 
+  
+  Exploratory:
+  
+  Inferential :
+  
+  Predictive: 
+  
+  Casual :
+  
+  Mechanistic: 
+  
+  Good2know: EDA - Stand for Exploratory Data Analysis
+  Visualização de Dados é a ferramenta mais forte dentro do que chamaos de EDA.
+  
+  - Entender melheor o conjunto de Dados
+  - checar os atribustos e formato
+  - Validar algumas hipoteses
+  - Ter uma ideia preliminar sobre o próximo passo a ser tomado.
+  
+  Distriubuição dos Dados 
+  
+  2 tipos de variáveis:  categóricas ( ordinais e não ordinais )
+  
+                         Numericas ( Continuas - Discretas )
+						 
+						
+						
+			
